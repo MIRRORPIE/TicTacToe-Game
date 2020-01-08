@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578507450 source:g:\website-lectures\c, ds & c++\01-c for beginners master the c-udemy\18-codes\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
